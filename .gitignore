@@ -1,1 +1,2 @@
-static/gitbook/!*.tar.gz
+static/gitbook/*
+!static/gitbook/*.gz
